@@ -1,0 +1,3 @@
+# Discord_webhook_deleter
+Webhook消す奴。ゲートレCとかグラバーとか見つけたら使ったって
+割とwebhook探すのは簡単だから。
